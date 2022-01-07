@@ -1,0 +1,12 @@
+# Tugas 3 mysql
+
+1. kepanjangan dari x yaitu cross platform atau bisa digunakan
+di semua perangkat seperti mac , linux ataupun windows . A itu apache m itu mariadb dan p itu php dan p itu perl
+
+2. intall xampp ,pertama download dlu lalu di install 
+
+3.  module my sql dan apache
+
+4. ketik localhost di browser masing-masing lalu di sebelah pojok kanan ada sebuah panel php myadmin lalu di klik
+
+5. buka xampp lalu klik aktifkan mysql lalu buka folder xampp ke mysql lalu ke folder bin jalankan aplikasi mysql.

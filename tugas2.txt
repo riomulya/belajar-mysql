@@ -1,0 +1,16 @@
+# tugas 2 mysql
+
+1. tupple adalah data yang berada di tempat baris data , 
+sedangkan attribute adalah data yang ada di kolom data , 
+relation adalah hubungan data antara baris dan kolom pada 
+data agar data dapat di simpan lebih efisien dan saling melekat
+
+2. a. NPM , Nama , Jenis Kelamin , jurusan , ipk
+   b. Andi Gunawan laki-laki akuntans , leshi Puspitasari wanita hukum
+      Maxmilinanous Anthoni laki- laki Ilmu komputer
+   c. NPM , Nama , Jenis Kelamin , jurusan , ipk
+
+3. primary key adalah data yang berisi unik seperti id,
+sedangkan candidate key adalah key yang bisa aja berisi primary key foreign key dan lainlain.
+
+sekian terima kasih.

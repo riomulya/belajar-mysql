@@ -1,0 +1,17 @@
+# Tugas 5 mysql
+
+1. charset adalah kepanjangan dari character set yang bersisi bahasa dari setiap negara
+yang mempunyai huruf unik.
+
+2. istilah lain database adalah basis data data yang memiliki basis tempat untuk media menyimpan
+informasi penting
+
+3. query untuk menampilkan charset = SHOW CHAARACTER SET; atau bisa juga show charset;
+
+4. show coallition;
+
+5. TINYINT , SMALLINT, MEDIUMINT, INT,BIGINT, FLOAT, DOUBLE. dan masih banyak lain-lain.
+
+6. CHAR, VARCHAR, TINYTEXT,TEXT,MEDIUMTEXT, LONGTEXT.
+
+7. DATE , TIME , DATETIME , YEAR
